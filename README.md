@@ -9,7 +9,7 @@
 <p><br></p>
 
 # 👋😀:smile::point_down::thumbsup:
-[![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=square&logo=Naver&logoColor=white)](https://blog.naver.com/dusdkel)  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=square&logo=Blogger&logoColor=white)](https://trakant.blogspot.com/)  ![Discord](https://img.shields.io/badge/Cambiera＃4854-5865F2?style=square&logo=Discord&logoColor=white)
+[![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=square&logo=Naver&logoColor=white)](https://blog.naver.com/dusdkel)  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=square&logo=Blogger&logoColor=white)](https://trakant.blogspot.com/)  [![Discord](https://img.shields.io/badge/Cambiera＃4854-5865F2?style=square&logo=Discord&logoColor=white)](https://discord.com/invite/gw6RBwPxdb)
 
 <p>
 Hi! I'm a junior developer from Republic of Korea!<br><br>
