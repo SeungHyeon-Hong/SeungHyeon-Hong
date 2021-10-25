@@ -9,7 +9,7 @@
 <p><br></p>
 
 # 👋😀:smile::point_down::thumbsup:
-[![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=square&logo=Naver&logoColor=white)](https://blog.naver.com/dusdkel)  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=square&logo=Blogger&logoColor=white)](https://trakant.blogspot.com/)  [![Discord](https://img.shields.io/badge/Cambiera＃4854-5865F2?style=square&logo=Discord&logoColor=white)](https://discord.com/invite/gw6RBwPxdb)
+[![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=square&logo=Naver&logoColor=white)](https://blog.naver.com/dusdkel)  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=square&logo=Blogger&logoColor=white)](https://trakant.blogspot.com/)  [![Discord](https://img.shields.io/badge/DiscordServer-5865F2?style=square&logo=Discord&logoColor=white)](https://discord.com/invite/gw6RBwPxdb)
 
 <p>
 Hi! I'm a junior developer from Republic of Korea!<br><br>
@@ -19,4 +19,11 @@ And I've been interested in VR over the past few years.<br>
 So I am look forward UnReal Engine next. (as soon as I finish JavaScript and Python basics.)<br>
 I am curious what is so different between Unity and UnReal.<br><br>
 See ya around! 😁🖐️<br><br>
+</p>
+
+<p>
+[KR]<br>
+안녕하세요! 저는 유니티 클라이언트 프로그래머입니다.<br>
+저는 VR플랫폼 개발에 관심이 많습니다.<br>
+언젠가 함께 프로젝트를 했으면 좋겠네요! 😁🖐️<br><br>
 </p>
