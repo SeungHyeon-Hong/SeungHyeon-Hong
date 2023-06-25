@@ -12,7 +12,8 @@
 <p><br></p>
 
 # 👋😀:smile::point_down::thumbsup:
-[![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=square&logo=Naver&logoColor=white)](https://blog.naver.com/dusdkel) [![Discord](https://img.shields.io/badge/DiscordServer-5865F2?style=square&logo=Discord&logoColor=white)](https://discord.com/invite/gw6RBwPxdb)
+[![GitPages](https://img.shields.io/badge/GitPages-0070AA?style=square&logo=GitHub&logoColor=wight)](https://seunghyeon-hong.github.io) [![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=square&logo=Naver&logoColor=white)](https://blog.naver.com/dusdkel) [![Discord](https://img.shields.io/badge/DiscordServer-5865F2?style=square&logo=Discord&logoColor=white)](https://discord.com/invite/gw6RBwPxdb)
+
 
 <p>
 [EN]<br>
